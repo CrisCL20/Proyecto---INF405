@@ -1,0 +1,7 @@
+scipy==1.13.0
+numpy
+matplotlib
+pandas
+seaborn
+opencv-python
+xlrd
